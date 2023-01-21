@@ -1,0 +1,74 @@
+body {
+    background-color: aquamarine;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0px;
+    background-color: rgb(97, 188, 194);
+
+}
+
+textarea {
+    resize: both;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+
+table {
+    border: 2px solid black;
+    width: 70%;
+    text-align: left;
+}
+
+.div_set {
+    display: flex;
+    justify-content: center;
+}
+
+.font {
+    font-size: larger;
+    font-style: normal;
+}
+
+#phone {
+    margin-left: 37.7%;
+}
+
+#dob {
+    margin-left: 38.8%;
+}
+
+#addr {
+    margin-left: 41.69%;
+}
+
+#gender {
+    margin-left: 42%;
+}
+
+#city {
+    margin-left: 43.5%;
+}
+
+.hobb {
+    position: relative;
+    left: 41.5%;
+    display: inline-block;
+    width: 150px;
+}
+
+#hobbies {
+    vertical-align: top;
+    width: 80px;
+}
+
+.border {
+    border-radius: 10px;
+    border-width: 1px;
+}
